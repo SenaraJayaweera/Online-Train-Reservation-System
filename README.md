@@ -14,3 +14,13 @@ A web-based application for easy train ticket booking and management. Users can 
 - Frontend: JSP, HTML, CSS
 - Backend: Java Servlets
 - Database: MySQL
+
+# Installation
+1. Clone the repository: https://github.com/SenaraJayaweera/Online-Train-Reservation-System.git
+2. Import into a Java IDE (Eclipse, Intellij)
+3. Configure the database connection
+
+# Usage
+1. Start your local server (like Apache Tomcat).
+2. Open your web browser and go to: localhost/Online-Train-Reservation-System
+3. Use the application.
